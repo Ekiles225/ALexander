@@ -1,4 +1,4 @@
-/* body{
+body{
     justify-content: center;
     align-items: center;
     display: flex;  
@@ -45,4 +45,4 @@ hr{
     border-style: solid;
     width: 80%;
     margin-top: auto;
-} */
+}
